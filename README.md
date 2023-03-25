@@ -1,5 +1,5 @@
 # Tienda Online React SpringBoot
-Proyecto de una tienda online de videojuegos para `PS4` y `PS5` desarrollada con Spring Boot y ReactJS completamente responsive.
+Proyecto de una tienda online de videojuegos para PS4 y PS5 desarrollada con `Spring Boot` y `ReactJS` completamente responsive.
 
 ## Tecnologias usadas:
 
