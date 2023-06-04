@@ -22,7 +22,7 @@ https://tiendaonlinereactspringboot-production.up.railway.app/
      - Comprar juegos digitales o físicos.
      - Inicia sesión con tu cuenta de Google, Facebook, GitHub o Microsoft.
      - Buscar un juego mediante el buscador de la tienda.
-     - Filtra los juegos por consola, version o precio.
+     - Filtrá los juegos por consola, version o precio.
      - Agregar juegos al carrito de compras.
      - Acceder a soporte técnico o ayuda adicional.
      
